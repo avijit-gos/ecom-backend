@@ -19,6 +19,7 @@
     "helmet": "^8.0.0",
     "http-errors": "^2.0.0",
     "ioredis": "^5.4.1",
+    "joi": "^17.13.3",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.0"
   },
@@ -30,6 +31,7 @@
     "@types/helmet": "^0.0.48",
     "@types/http-errors": "^2.0.4",
     "@types/ioredis": "^4.28.10",
+    "@types/joi": "^17.2.2",
     "@types/jsonwebtoken": "^9.0.7",
     "@types/mongoose": "^5.11.96",
     "@types/node": "^22.10.2",
